@@ -80,7 +80,8 @@ Shows the historical CPI trend and projected future values using ARIMA model. It
 
 https://www.investing.com/economic-calendar/brazilian-cpi-410
 
-### Vikrant ChandraEmail: vikrantchandra12@gmail.com
+### Vikrant Chandra
+Email: vikrantchandra12@gmail.com
 ### LinkedIn: linkedin.com/in/vikrant-chandra
 
 
