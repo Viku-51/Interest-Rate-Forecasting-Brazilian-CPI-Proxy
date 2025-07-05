@@ -2,10 +2,10 @@
 This project aims to forecast the Brazilian interest rate trend using CPI data as a proxy. It applies time series modeling techniques, primarily using the ARIMA model, and includes data visualization, stationarity testing, and performance evaluation. 
 
 
-# 🧠 Objective 
+## 🧠 Objective 
 To demonstrate time series forecasting skills using macroeconomic data relevant to interest rate modeling and financial strategy.
 
-# 📦 Tools Used
+## 📦 Tools Used
 
 - Python
 
@@ -17,7 +17,7 @@ To demonstrate time series forecasting skills using macroeconomic data relevant 
 
 - scikit-learn (RMSE metric)
 
-Key Tasks
+### 📊 Key Tasks
 
 * Data Cleaning & Parsing from a publicly available CPI dataset (filtered for Brazil)
 
@@ -29,10 +29,10 @@ Key Tasks
 
 * Backtesting using RMSE to measure forecast accuracy
 
-# Forecast graph of Brazil CPI (as proxy for interest rates):
+### Forecast graph of Brazil CPI (as proxy for interest rates):
 Shows the historical CPI trend and projected future values using ARIMA model. It provides visual insight into inflation expectations and potential rate movement trends.
 
-# ARIMA summary output:
+### ARIMA summary output:
 - Displays statistical diagnostics including coefficients, standard errors, confidence intervals, and model fit statistics (AIC, BIC). These values help assess:
 
 - AR/MA coefficients: Indicate the influence of past values and residuals.
@@ -43,10 +43,10 @@ Shows the historical CPI trend and projected future values using ARIMA model. It
 
 - Log Likelihood: Indicates overall fit of the model to the observed data
 
-# RMSE score from backtest to evaluate model performance:
+### RMSE score from backtest to evaluate model performance:
 - Evaluate model performance
 
-# 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - Replace CPI with actual DI rate or Fed Funds data
 
@@ -56,7 +56,7 @@ Shows the historical CPI trend and projected future values using ARIMA model. It
 
 - Streamlit dashboard for interactive visualization
 
-🔗 Data Source
+### 🔗 Data Source
 
 https://github.com/datasets/inflation
 
