@@ -16,3 +16,15 @@ To demonstrate time series forecasting skills using macroeconomic data relevant 
 -statsmodels (ARIMA)
 
 -scikit-learn (RMSE metric)
+
+Key Tasks
+
+* Data Cleaning & Parsing from a publicly available CPI dataset (filtered for Brazil)
+
+* Visualization & ADF Test for stationarity
+
+* ARIMA(1,1,1) Modeling and parameter tuning
+
+* Forecasting future values and plotting projections
+
+Backtesting using RMSE to measure forecast accuracy
