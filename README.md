@@ -55,6 +55,14 @@ Shows the historical CPI trend and projected future values using ARIMA model. It
 
 ![image](https://github.com/user-attachments/assets/60a09d75-8c20-4124-b190-b64ff387216a)
 
+![image](https://github.com/user-attachments/assets/318eb734-35e4-48ab-bac6-167ab96026ef)
+
+![image](https://github.com/user-attachments/assets/683c05f4-d29d-4d3b-ba5a-c0e19af2c24e)
+
+![image](https://github.com/user-attachments/assets/1956b835-5466-4647-9896-039a93b966e9)
+
+![image](https://github.com/user-attachments/assets/612adf6f-661a-4e7b-b711-a4d04a1bb61f)
+
 ![image](https://github.com/user-attachments/assets/131ddb7e-38e1-416c-bbe6-f1ae6092c9f0)
 
 
