@@ -47,6 +47,17 @@ Shows the historical CPI trend and projected future values using ARIMA model. It
 ### RMSE score from backtest to evaluate model performance:
 - Evaluate model performance
 
+![image](https://github.com/user-attachments/assets/b0b50bf7-57f9-4fcc-9117-098b44ff7524)
+
+![image](https://github.com/user-attachments/assets/25ee4173-74c9-445c-bb8c-deb632cbccd6)
+
+![image](https://github.com/user-attachments/assets/892c867f-4fd2-4782-8f17-12c0eedb9fac)
+
+![image](https://github.com/user-attachments/assets/60a09d75-8c20-4124-b190-b64ff387216a)
+
+![image](https://github.com/user-attachments/assets/131ddb7e-38e1-416c-bbe6-f1ae6092c9f0)
+
+
 ## 🚀 Future Enhancements
 
 - Replace CPI with actual DI rate or Fed Funds data
