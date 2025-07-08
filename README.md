@@ -1,6 +1,6 @@
 # Interest-Rate-Forecasting-Brazilian-CPI-Proxy
 This project aims to forecast the Brazilian interest rate trend using CPI data as a proxy. It applies time series modeling techniques, primarily using the ARIMA model, and includes data visualization, stationarity testing, and performance evaluation. 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/viku-51/Interest-Rate-Forecasting-Brazilian-CPI-Proxy/interest_rate_forecasting_FINAL.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/viku-51/Interest-Rate-Forecasting-Brazilian-CPI-Proxy/blob/interest_rate_forecasting_FINAL.ipynb)
 
 
 ## 🧠 Objective 
